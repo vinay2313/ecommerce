@@ -1,0 +1,16 @@
+node_modules/
+android/build/
+android/app/build/
+ios/build/
+ios/Pods/
+*.log
+
+# Editor and IDE files
+.vscode/
+*.code-workspace
+*.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
